@@ -28,6 +28,6 @@
 ---
 
 
-[website]: https://webcamman.cf
+[website]: https://www.webcamman.cf
 [twitter]: https://twitter.com/Zreawen
 [instagram]: https://www.instagram.com/alifrants
