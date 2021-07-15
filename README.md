@@ -1,7 +1,7 @@
 ### Hello, I'm Ali - aka Zreawen 👋
 
 
-## I'm a C++ and Python Developer!!
+## I'm a Student and (C++, Python) Developer!!
 
 
 
